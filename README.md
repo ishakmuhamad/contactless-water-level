@@ -4,8 +4,11 @@ Homeassistant and Contactless Water Level Sensor.  Esphome  + Esp8266 Wemos d1 m
 
 # Component
 1. Esp8266 Wemos d1 mini
-2. Non-Contact Liquid Level Sensor
-    https://shopee.com.my/product/205804818/21176709093?gclid=CjwKCAjw0ZiiBhBKEiwA4PT9z7P6szYqzDWJBQCxAEh1wI3UI9Ae8NdHDEueHgvfmyeSmy1jDD-_LBoC0foQAvD_BwE
+2. Non-Contact Liquid sensor ...
+   
+Just found this amazing item on AliExpress. Check it out! MYR13.69  14%OFF | XKC-Y25 Non-Contact Liquid Level Sensor Tank Water Level Sensor Water Level Sensor Liquid Induction Switch
+https://a.aliexpress.com/_okMJRIk
+   
 # Setup
 # 1. EspHome
     Refer to file: contactlesswaterlevel.yaml
